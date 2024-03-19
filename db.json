@@ -1,0 +1,295 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "title": "Luxury Villa with Ocean View",
+            "size": "5000 sqft",
+            "location": {
+                "country": "USA",
+                "city": "Los Angeles",
+                "street": "Ocean Avenue"
+            },
+            "rate": 4.9,
+            "roomCount": 6,
+            "bathCount": 5,
+            "price": "$2,500,000",
+            "description": "Stunning villa with panoramic ocean views. Spacious rooms and luxury amenities.",
+            "images": [
+                "https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1495433324511-bf8e92934d90?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Modern Penthouse in City Center",
+            "size": "2000 sqft",
+            "location": {
+                "country": "UK",
+                "city": "London",
+                "street": "High Street"
+            },
+            "rate": 4.7,
+            "roomCount": 3,
+            "bathCount": 3,
+            "price": "£1,200,000",
+            "description": "Sleek and modern penthouse in the heart of the city. Stunning city views.",
+            "images": [
+                "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?q=80&w=1428&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Modern Penthouse in City Center",
+            "size": "2000 sqft",
+            "location": {
+                "country": "UK",
+                "city": "London",
+                "street": "High Street"
+            },
+            "rate": 4.7,
+            "roomCount": 3,
+            "bathCount": 3,
+            "price": "£1,200,000",
+            "description": "Sleek and modern penthouse in the heart of the city. Stunning city views.",
+            "images": [
+                "https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?q=80&w=1428&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Luxury Villa with Ocean View",
+            "size": "5000 sqft",
+            "location": {
+                "country": "USA",
+                "city": "Los Angeles",
+                "street": "Ocean Avenue"
+            },
+            "rate": 4.9,
+            "roomCount": 6,
+            "bathCount": 5,
+            "price": "$2,500,000",
+            "description": "Stunning villa with panoramic ocean views. Spacious rooms and luxury amenities.",
+            "images": [
+                "https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?q=80&w=1428&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "image2.jpg",
+                "image3.jpg"
+            ]
+        },
+        {
+            "id": 200,
+            "title": "Modern Penthouse in City Center",
+            "size": "2000 sqft",
+            "location": {
+                "country": "UK",
+                "city": "London",
+                "street": "High Street"
+            },
+            "rate": 4.7,
+            "roomCount": 3,
+            "bathCount": 3,
+            "price": "£1,200,000",
+            "description": "Sleek and modern penthouse in the heart of the city. Stunning city views.",
+            "images": [
+                "https://images.unsplash.com/photo-1582610116397-edb318620f90?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "image5.jpg",
+                "image6.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Modern Penthouse in City Center",
+            "size": "2000 sqft",
+            "location": {
+                "country": "UK",
+                "city": "London",
+                "street": "High Street"
+            },
+            "rate": 4.7,
+            "roomCount": 3,
+            "bathCount": 3,
+            "price": "£1,200,000",
+            "description": "Sleek and modern penthouse in the heart of the city. Stunning city views.",
+            "images": [
+                "https://i.ibb.co/hfHkF37/negative-space-perspective-building-view.jpg",
+                "https://i.ibb.co/T0crHc6/nsplsh-e7648430195a4d589e05a85f49f285c3-mv2.webp",
+                "https://i.ibb.co/vH2JzBX/20220518115033-Screen-Shot-2022-05-18-at-11-49-37-AM.png"
+            ]
+        }
+    ],
+    "mostRealStat": [
+        {
+            "id": 1,
+            "title": "Luxury Villa with Ocean View",
+            "size": "5000 sqft",
+            "location": {
+                "country": "USA",
+                "city": "Los Angeles",
+                "street": "Ocean Avenue"
+            },
+            "rate": 4.9,
+            "roomCount": 6,
+            "bathCount": 5,
+            "price": "$2,500,000",
+            "description": "Stunning villa with panoramic ocean views. Spacious rooms and luxury amenities.",
+            "images": [
+                "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?q=80&w=1428&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Luxury Villa with Ocean View",
+            "size": "5000 sqft",
+            "location": {
+                "country": "USA",
+                "city": "Los Angeles",
+                "street": "Ocean Avenue"
+            },
+            "rate": 4.9,
+            "roomCount": 6,
+            "bathCount": 5,
+            "price": "$2,500,000",
+            "description": "Stunning villa with panoramic ocean views. Spacious rooms and luxury amenities.",
+            "images": [
+                "https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?q=80&w=1428&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://i.ibb.co/hfHkF37/negative-space-perspective-building-view.jpg",
+                "https://i.ibb.co/LrJYcKc/spacejoy-3z-61bnb-Fh-M-unsplash.webp"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Modern Penthouse in City Center",
+            "size": "2000 sqft",
+            "location": {
+                "country": "UK",
+                "city": "London",
+                "street": "High Street"
+            },
+            "rate": 4.7,
+            "roomCount": 3,
+            "bathCount": 3,
+            "price": "£1,200,000",
+            "description": "Sleek and modern penthouse in the heart of the city. Stunning city views.",
+            "images": [
+                "https://images.unsplash.com/photo-1582610116397-edb318620f90?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://i.ibb.co/hfHkF37/negative-space-perspective-building-view.jpg",
+                "https://i.ibb.co/LrJYcKc/spacejoy-3z-61bnb-Fh-M-unsplash.webp"
+            ]
+        },
+        {
+            "id": 200,
+            "title": "Modern Penthouse in City Center",
+            "size": "2000 sqft",
+            "location": {
+                "country": "UK",
+                "city": "London",
+                "street": "High Street"
+            },
+            "rate": 4.7,
+            "roomCount": 3,
+            "bathCount": 3,
+            "price": "£1,200,000",
+            "description": "Sleek and modern penthouse in the heart of the city. Stunning city views.",
+            "images": [
+                "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://i.ibb.co/vH2JzBX/20220518115033-Screen-Shot-2022-05-18-at-11-49-37-AM.png",
+                "https://images.unsplash.com/photo-1582610116397-edb318620f90?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ]
+        }
+    ],
+    "recent": [
+        {
+            "id": 1,
+            "title": "Luxury Villa with Ocean View",
+            "size": "5000 sqft",
+            "location": {
+                "country": "USA",
+                "city": "Los Angeles",
+                "street": "Ocean Avenue"
+            },
+            "rate": 4.9,
+            "roomCount": 6,
+            "bathCount": 5,
+            "price": "$2,500,000",
+            "description": "Stunning villa with panoramic ocean views. Spacious rooms and luxury amenities.",
+            "images": [
+                "https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?q=80&w=1428&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://i.ibb.co/LrJYcKc/spacejoy-3z-61bnb-Fh-M-unsplash.webp",
+                "https://i.ibb.co/hfHkF37/negative-space-perspective-building-view.jpg"
+            ]
+        },
+        {
+            "id": 200,
+            "title": "Modern Penthouse in City Center",
+            "size": "2000 sqft",
+            "location": {
+                "country": "UK",
+                "city": "London",
+                "street": "High Street"
+            },
+            "rate": 4.7,
+            "roomCount": 3,
+            "bathCount": 3,
+            "price": "£1,200,000",
+            "description": "Sleek and modern penthouse in the heart of the city. Stunning city views.",
+            "images": [
+                "https://images.unsplash.com/photo-1582610116397-edb318620f90?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1582610116397-edb318620f90?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://i.ibb.co/hfHkF37/negative-space-perspective-building-view.jpg"
+            ]
+        }
+    ],
+    "blog": [
+        {
+            "id": 1,
+            "title": "10 Tips for First-Time Homebuyers",
+            "author": "John Doe",
+            "date": "2024-03-01",
+            "images": "https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?q=80&w=1428&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada faucibus ex nec ultricies. Donec mattis ..."
+        },
+        {
+            "id": 2,
+            "title": "How to Stage Your Home for a Quick Sale",
+            "author": "Jane Smith",
+            "date": "2024-03-05",
+            "images": "https://i.ibb.co/hfHkF37/negative-space-perspective-building-view.jpg",
+            "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam..."
+        },
+        {
+            "id": 10,
+            "title": "The Benefits of Living in a Condo",
+            "author": "Michael Johnson",
+            "date": "2024-03-10",
+            "images": "https://images.unsplash.com/photo-1582610116397-edb318620f90?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "content": "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros..."
+        }
+    ],
+    "users": [
+        {
+            "username": "test",
+            "email": "test@test.com",
+            "password": "123456",
+            "id": 1
+        }
+    ],
+    "admin": [
+        {
+            "email": "admin@admin.com",
+            "password": "123456",
+            "id": 1
+        }
+    ],
+    "login": [
+        {
+            "role": "users",
+            "id": 1
+        }
+    ]
+}
