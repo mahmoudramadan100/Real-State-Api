@@ -96,8 +96,8 @@
             "description": "Sleek and modern penthouse in the heart of the city. Stunning city views.",
             "images": [
                 "https://images.unsplash.com/photo-1582610116397-edb318620f90?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "image5.jpg",
-                "image6.jpg"
+                "https://i.ibb.co/F7XR0cH/project-02.jpg",
+                "https://i.ibb.co/tMnbykq/d92e45-c871d39d33824c70a52263feb3af354d-mv2.webp"
             ]
         },
         {
@@ -252,7 +252,7 @@
             "author": "John Doe",
             "date": "2024-03-01",
             "images": "https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?q=80&w=1428&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada faucibus ex nec ultricies. Donec mattis ..."
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada faucibus ex nec ultricies. Donec mattis ,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita praesentium dicta dolores exercitationem repellat sunt cumque impedit ut quos voluptatibus dolor delectus, nam fuga, asperiores, numquam debitis voluptates quas eligendi. Repellat cumque quia dolor expedita magni facere consectetur maxime voluptatibus. Excepturi ipsum temporibus beatae atque iusto, dolorem tempora odit quo laboriosam quos harum, quia sint consequatur ab mollitia a adipisci corrupti blanditiis deserunt tempore vero veniam dolorum culpa? Ab voluptatum aliquam illum dicta sit sint nulla facere, nisi modi soluta quibusdam, numquam quos perferendis fugit voluptatem. Ab culpa doloremque, aliquam, obcaecati eius tenetur temporibus magnam, iusto alias beatae necessitatibus facere."
         },
         {
             "id": 2,
@@ -260,7 +260,7 @@
             "author": "Jane Smith",
             "date": "2024-03-05",
             "images": "https://i.ibb.co/hfHkF37/negative-space-perspective-building-view.jpg",
-            "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam..."
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada faucibus ex nec ultricies. Donec mattis ,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita praesentium dicta dolores exercitationem repellat sunt cumque impedit ut quos voluptatibus dolor delectus, nam fuga, asperiores, numquam debitis voluptates quas eligendi. Repellat cumque quia dolor expedita magni facere consectetur maxime voluptatibus. Excepturi ipsum temporibus beatae atque iusto, dolorem tempora odit quo laboriosam quos harum, quia sint consequatur ab mollitia a adipisci corrupti blanditiis deserunt tempore vero veniam dolorum culpa? Ab voluptatum aliquam illum dicta sit sint nulla facere, nisi modi soluta quibusdam, numquam quos perferendis fugit voluptatem. Ab culpa doloremque, aliquam, obcaecati eius tenetur temporibus magnam, iusto alias beatae necessitatibus facere."
         },
         {
             "id": 10,
@@ -268,7 +268,7 @@
             "author": "Michael Johnson",
             "date": "2024-03-10",
             "images": "https://images.unsplash.com/photo-1582610116397-edb318620f90?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "content": "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros..."
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada faucibus ex nec ultricies. Donec mattis ,Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita praesentium dicta dolores exercitationem repellat sunt cumque impedit ut quos voluptatibus dolor delectus, nam fuga, asperiores, numquam debitis voluptates quas eligendi. Repellat cumque quia dolor expedita magni facere consectetur maxime voluptatibus. Excepturi ipsum temporibus beatae atque iusto, dolorem tempora odit quo laboriosam quos harum, quia sint consequatur ab mollitia a adipisci corrupti blanditiis deserunt tempore vero veniam dolorum culpa? Ab voluptatum aliquam illum dicta sit sint nulla facere, nisi modi soluta quibusdam, numquam quos perferendis fugit voluptatem. Ab culpa doloremque, aliquam, obcaecati eius tenetur temporibus magnam, iusto alias beatae necessitatibus facere."
         }
     ],
     "users": [
